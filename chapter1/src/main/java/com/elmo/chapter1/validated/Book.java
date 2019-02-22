@@ -10,7 +10,7 @@ import java.math.BigDecimal;
 import java.util.Locale;
 
 /**
- * @author Levin
+ * @author Levin a
  * @since 2018/6/5 0005
  */
 public class Book {
