@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.elmo</groupId>
-	<artifactId>chapter3</artifactId>
+	<artifactId>chapter2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>chapter3</name>
+	<name>chapter2</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
